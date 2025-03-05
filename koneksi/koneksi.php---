@@ -1,0 +1,5 @@
+<?php
+
+  $koneksi = new mysqli ("localhost","aliq1000","xhb9qnskZj1000","aliq1216_tamu_new");
+
+ ?>
